@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+Slant.app/
+Slant.dmg
+.DS_Store
+*.p12
+*.pem
+*.key
